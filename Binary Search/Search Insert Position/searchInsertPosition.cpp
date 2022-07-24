@@ -7,6 +7,10 @@ If arr[mid] exceeds K, set end = mid – 1 Otherwise, set  start = mid + 1.
 If the element is not present inside the array then return the possible inserting position so that the result array will remain sorted, which will be equal to end + 1.
 */
 
+/*
+Explanation :
+
+*/
 #include<iostream>
 using namespace std;
 
